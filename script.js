@@ -1,6 +1,10 @@
 const DEMO_USER = "admin";
 const DEMO_PASSWORD = "1234";
 
+const usuarios = [
+  { usuario: "Santiago1709", contraseña: "Medicina1709@" }
+];
+
 const loginForm = document.getElementById("loginForm");
 const usernameInput = document.getElementById("username");
 const passwordInput = document.getElementById("password");
