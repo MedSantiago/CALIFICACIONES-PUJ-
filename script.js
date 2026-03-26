@@ -31,7 +31,7 @@ loginForm.addEventListener("submit", (event) => {
     }
 
     setTimeout(() => {
-      window.location.href = "https://google.com";
+      window.location.href = "https://medsantiago.github.io/CALIFICACIONES-2026-1/";
     }, 900);
 
     return;
